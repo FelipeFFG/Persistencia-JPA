@@ -16,7 +16,9 @@ public class Categoria {
         this.nome = nome;
     }
 
- 
+    public Categoria() {
+
+    }
 
 
     public String getNome() {
